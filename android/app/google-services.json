@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "748051239619",
+    "project_id": "meduminder",
+    "storage_bucket": "meduminder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748051239619:android:131714ecd9abb67dd28876",
+        "android_client_info": {
+          "package_name": "com.example.meduminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748051239619-89tbcq415ko3vfbi4vafo7sfbommet7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meduminder",
+            "certificate_hash": "abde7e7c9a43843bba32d69b4cd7fbea511ae2d1"
+          }
+        },
+        {
+          "client_id": "748051239619-692toit8cqvlkfd4jmkqrfqr41p0jntn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnlyRIeCtE-ma2XFcNBA4e37H5axz0jF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748051239619-692toit8cqvlkfd4jmkqrfqr41p0jntn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748051239619-cp68o8f92fnqn26o3h9pti6l70gcigq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meduminder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
